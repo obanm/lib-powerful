@@ -1,4 +1,5 @@
 # lib-powerful
+
 Simple lib-powerful example
 
 ## FAQ
@@ -11,3 +12,4 @@ A: This is currently in active development. Use at your own risk.
 
 **Q: How can I contribute?**
 A: See the Contributing section above.
+
